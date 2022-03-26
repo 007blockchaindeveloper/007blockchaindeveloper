@@ -29,6 +29,7 @@ Highly professional blockchain developer with comprehensive accomplishments appl
     <img align="left" src="https://img.shields.io/badge/Web3.js-4EA94B?style=for-the-badge&logo=web3dotjs&logoColor=white" />
     <img align="left" src="https://img.shields.io/badge/truffle-2CA5E0?style=for-the-badge" />
     <img align="left" src="https://img.shields.io/badge/-Smart%20Contracts-green?style=for-the-badge" />
+    <img align="left" src="https://img.shields.io/badge/Solana-e6e6e6?style=for-the-badge&logo=solana&logoColor=black" />
   </div>
   <br>
   <br>
