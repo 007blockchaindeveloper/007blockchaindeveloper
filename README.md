@@ -63,7 +63,6 @@ Highly professional blockchain developer with comprehensive accomplishments appl
   </div>
 </div>
 
-#### Skills/Experience
 - Blockchain Technology, Smart Contract
 - dApp, DeFi, NFT
 - Solidity, Rust, Golang, C++, Python
