@@ -62,3 +62,18 @@ Highly professional blockchain developer with comprehensive accomplishments appl
     <img align="left" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   </div>
 </div>
+
+#### Skills/Experience
+- Blockchain Technology, Smart Contract
+- dApp, DeFi, NFT
+- Solidity, Rust, Golang, C++, Python
+- Ethereum, Bitcoin, Solana, Cardano, Polkadot, Polygon, Binance Smart Chain, Chainlink
+- Algorithmic Trading
+- ElectronJS, POS(Point of Sale), C# WPF XAML UWP, React, Vue, Angular, Javascript/Typescript, Node.js, Web3.js, Ethers.js,  GraphQL, ...
+
+As a senior blockchain developer with 4+ years of experience in Solidity & 2+ years of experience in Rust,  I used to work on several DeFi and NFT projects.
+
+- What blockchain networks I’ve worked with?   : Ethereum,  Solana,  Polygon,  BSC (Binance Smart Chain),  Cardano,  Polkadot
+- What languages/frameworks/libraries I’m experienced with?  :  Solidity, Rust,  Golang, C++,     Node.js, Python, Ruby, C#,   Web3.js, Ethers.js,  Typescript/JavaScript, Vue.js, React.js, Angular.js, GraphQL,  …   
+- What database am I familiar with?   :   MySQL, PostgreSQL, MSSQL, InfluxDB,     MongoDB, DynamoDB,  …
+- What tools do I use for solidity smart contract development?  :   Hardhat (strong), Truffle,  Remix
